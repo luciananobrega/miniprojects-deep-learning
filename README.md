@@ -10,7 +10,7 @@ Classification using Softmax, Multilayer Perceptron (MLP) and Convolutional Neur
 Classification using Vanilla-RNN and LSTM.
 
 ## Image Generation of Handwritten Digits (MNIST Dataset)
-Using VAN and GAN.
+Using Variational AutoEncoder (VAE) and Generative Adversarial Network (GAN).
 
 ## Image Generation (CIFAR10 Dataset)
-Using VAN and GAN.
+Using Variational AutoEncoder (VAE) and Generative Adversarial Network (GAN).
